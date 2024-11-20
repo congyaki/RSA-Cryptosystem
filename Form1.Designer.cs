@@ -104,7 +104,7 @@
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(75, 22);
             this.label13.TabIndex = 10;
-            this.label13.Text = "Tạo Key";
+            this.label13.Text = "Tạo key";
             // 
             // label1
             // 
@@ -130,7 +130,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(62, 13);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Độ dài Key:";
+            this.label2.Text = "Độ Dài Key:";
             // 
             // btnGenerateKey
             // 
@@ -312,7 +312,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(123, 22);
             this.label5.TabIndex = 3;
-            this.label5.Text = "Thông tin Key";
+            this.label5.Text = "Thông Tin Key";
             // 
             // tbE
             // 
@@ -357,7 +357,7 @@
             // 
             // btnReset
             // 
-            this.btnReset.Font = new System.Drawing.Font("Mistral", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReset.Font = new System.Drawing.Font("Arial", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.Location = new System.Drawing.Point(408, 425);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(141, 35);
